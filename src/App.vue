@@ -1,8 +1,8 @@
 <template>
 
 <section class="header">
-  <h1>I am learning VueJS</h1>
-  <span>With help of my Mentor</span>
+  <h1>Checking sending and recieving git commit sync</h1>
+  <span>Learning GIT  + VueJS</span>
   <p>Testing the a = {{ a }}</p>
   <p>obj = {{obj}}</p>
 </section>
@@ -30,7 +30,7 @@ export default {
 <style>
 
 .header {
-  background: deepskyblue;
+  background: tomato;
   height: 100vh;
   display: flex;
   justify-content: center;
